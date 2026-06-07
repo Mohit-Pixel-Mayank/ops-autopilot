@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated runbooks
+runbooks/
+
+data/metrics.csv
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
