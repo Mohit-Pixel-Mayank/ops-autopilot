@@ -2,16 +2,15 @@
 .env
 
 # Virtual environments
-venv/
 .venv/
+venv/
 
 # Python cache
 __pycache__/
 *.pyc
 
-# Generated runbooks
+# Generated files
 runbooks/
-
 data/metrics.csv
 
 # VS Code
@@ -20,4 +19,3 @@ data/metrics.csv
 # OS files
 .DS_Store
 Thumbs.db
-

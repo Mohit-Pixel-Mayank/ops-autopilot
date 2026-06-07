@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Ops Autopilot — AI-Powered Incident Detection Agent
 
 > **Splunk Agentic Ops Hackathon 2026 — Observability Track**
